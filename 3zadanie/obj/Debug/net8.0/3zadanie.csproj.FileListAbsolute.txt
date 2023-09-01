@@ -1,0 +1,14 @@
+E:\docx5\3zadanie\obj\Debug\net8.0\3zadanie.GeneratedMSBuildEditorConfig.editorconfig
+E:\docx5\3zadanie\obj\Debug\net8.0\3zadanie.AssemblyInfoInputs.cache
+E:\docx5\3zadanie\obj\Debug\net8.0\3zadanie.AssemblyInfo.cs
+E:\docx5\3zadanie\obj\Debug\net8.0\3zadanie.csproj.CoreCompileInputs.cache
+E:\docx5\3zadanie\bin\Debug\net8.0\3zadanie.exe
+E:\docx5\3zadanie\bin\Debug\net8.0\3zadanie.deps.json
+E:\docx5\3zadanie\bin\Debug\net8.0\3zadanie.runtimeconfig.json
+E:\docx5\3zadanie\bin\Debug\net8.0\3zadanie.dll
+E:\docx5\3zadanie\bin\Debug\net8.0\3zadanie.pdb
+E:\docx5\3zadanie\obj\Debug\net8.0\3zadanie.dll
+E:\docx5\3zadanie\obj\Debug\net8.0\refint\3zadanie.dll
+E:\docx5\3zadanie\obj\Debug\net8.0\3zadanie.pdb
+E:\docx5\3zadanie\obj\Debug\net8.0\3zadanie.genruntimeconfig.cache
+E:\docx5\3zadanie\obj\Debug\net8.0\ref\3zadanie.dll
